@@ -1,13 +1,1 @@
-# games.github.io
-<!DOCTYPE html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.8">
 
-    <title>FNF</title>
-    <link rel="shortcut icon" type="image/jpg" href="../favicon.ico"/>
-    <link href="../stuffstyle.css" rel="stylesheet" type="text/css" />
-    <link rel="preload" as="image" href="../bg serious.jpg">
-    </head>
-<iframe src="https://publicnebula4.uihdsdfihsdeuywesuydwfygd.workers.dev/service/go/hvtrs8%2F-wuw%2Cngwermuldq.aoo%2Froptcl-vkeu%2F572351" style="position: absolute; height: 100%; width: 100%; border: none">
-</iframe>
